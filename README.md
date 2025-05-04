@@ -26,7 +26,8 @@ Soy estudiante avanzado de Ingeniería Eléctrica con énfasis en programación 
   Interfaz gráfica en Python con tkinter para gestionar un carrito de compras. Soporta agregar y restar productos mediante decodificación de códigos de barras desde imágenes o entrada manual, muestra la lista de ítems y calcula el total a pagar.
 
 - **Proyecto-Digitales-II**
-- **Repositorio:** [Proyecto-Digitales-II](https://github.com/TU-USUARIO/Proyecto-Digitales-II)  
+- **Repositorio:** [Proyecto-Digitales-II](https://github.com/TU-USUARIO/Proyecto-Digitales-II)
+- 
   Implementación en Verilog del protocolo MDIO (IEEE 802.3) con dos módulos: un controlador MDIO que envía y recibe tramas de lectura/escritura bit a bit, y un periférico PHY simulado que almacena y recupera registros de 16 bits. Incluye bancos de prueba y Makefile para simulación.
 
 <!---
